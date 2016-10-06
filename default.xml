@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<default revision="master" remote="github" sync-j="4" />
+	<remote name="github" fetch="git@github.com:pradeepsixer/" />
+	<!-- project path="Head" remote="github" name="pradeepsixer/ShortUrlHead" -->
+	<project path="DataModel" remote="github" name="pradeepsixer/ShortUrlDataModel" />
+	<project path="Ejb" remote="github" name="pradeepsixer/ShortUrlEjb" />
+	<project path="Ear" remote="github" name="pradeepsixer/ShortUrlEar" />
+	<project path="Common" remote="github" name="pradeepsixer/ShortUrlCommon" />
+	<project path="Web" remote="github" name="pradeepsixer/ShortUrlWeb" />
+</manifest>
